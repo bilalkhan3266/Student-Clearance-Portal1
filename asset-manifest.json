@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Clearance-Portal1/static/css/main.6c1365f2.css",
+    "main.js": "/Student-Clearance-Portal1/static/js/main.5a130d26.js",
+    "index.html": "/Student-Clearance-Portal1/index.html",
+    "main.6c1365f2.css.map": "/Student-Clearance-Portal1/static/css/main.6c1365f2.css.map",
+    "main.5a130d26.js.map": "/Student-Clearance-Portal1/static/js/main.5a130d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c1365f2.css",
+    "static/js/main.5a130d26.js"
+  ]
+}
